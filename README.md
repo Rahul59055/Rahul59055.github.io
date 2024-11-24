@@ -58,7 +58,7 @@ This is a Python-based scientific calculator built using the Tkinter library for
   
 ---
 
-### ⿦ [Classwork & Assignments](https://github.com/divyansshu/python/tree/main/upes%20python%20class%20assignment)  
+### ⿦ [Classwork & Assignments](https://github.com/Rahul59055/Python_b1_rahul)  
 A repository containing various Python projects, classwork, and assignments completed as part of academic learning at UPES.
 
 ---
